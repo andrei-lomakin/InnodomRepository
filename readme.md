@@ -1,1 +1,1 @@
-It ois a file with project description
+It is a file with project description
