@@ -5,3 +5,6 @@ class SomeActor:
     def __init__(self):
         self.flag = True
 
+
+class Validator:
+    pass
